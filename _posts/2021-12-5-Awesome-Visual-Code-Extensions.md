@@ -3,24 +3,6 @@ layout: post
 title: Awesome Visual Code Extensions!
 ---
 
-- [A](#a)
-- [B](#b)
-- [C](#c)
-- [D](#d)
-- [E](#e)
-- [F](#f)
-- [G](#g)
-- [H](#h)
-- [J](#j)
-- [L](#l)
-- [M](#m)
-- [N](#n)
-- [P](#p)
-- [R](#r)
-- [S](#s)
-- [T](#t)
-- [Y](#y)
-
 ### A
 
 - `Auto Rename Tag` :
